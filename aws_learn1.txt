@@ -1,2 +1,3 @@
 echo "Test git commit"
  
+echo " changes made "
